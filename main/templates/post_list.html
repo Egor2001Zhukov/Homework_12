@@ -13,9 +13,13 @@
     <h1>Посты по запросу "{{s}}"</h1>
 
     {%for x in data%}
-        {%if s in x["content"]%}
+        {%if s.lower() in x["content"].lower()%}
             <div class="post">
-            <img src="{{x['pic']}}" width="100%" alt="">
+                {%if 'http' in x['pic']%}
+                    <img src="{{x['pic']}}" width="100%" alt="">
+                {%else%}
+                    <img src="/uploads/images/{{x['pic']}}" width="100%" alt="">
+                {% endif %}
             <p>{{x["content"]}} </p>
         </div>
         <hr>
