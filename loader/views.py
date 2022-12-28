@@ -5,7 +5,7 @@ import logging
 
 
 
-POST_PATH = "post.json"
+POST_PATH = "posts.json"
 UPLOAD_FOLDER = "uploads/images"
 logging.basicConfig(filename='basic.log', level=logging.INFO)
 

@@ -1,0 +1,93 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 115-332-199
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 115-332-199
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 115-332-199
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 15:44:17] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 15:44:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Загруженный файл - не картинка
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 15:44:24] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 15:44:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\egor2\\Desktop\\Homework_12\\loader\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 115-332-199
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 15:45:29] "GET /post HTTP/1.1" 200 -
+INFO:root:Загруженный файл - не картинка
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 15:45:37] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 15:45:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 15:45:40] "GET /post HTTP/1.1" 200 -
+ERROR:root:Ошибка загрузки
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 15:45:56] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 15:45:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 16:09:40] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 16:09:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 16:09:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполнение поиска
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 16:09:43] "GET /search?s=йцукен HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 16:09:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 16:09:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 16:09:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполнение поиска
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 16:09:48] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 16:09:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 115-332-199
+INFO:werkzeug: * Detected change in 'C:\\Users\\egor2\\Desktop\\Homework_12\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 18:20:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 18:20:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:34:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:34:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:34:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:34:47] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:34:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:35:00] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:35:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:35:00] "GET /uploads/images/807548893d3c824877406205a7aed13c.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:35:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:35:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполнение поиска
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:35:07] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:35:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:35:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:35:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:36:40] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:36:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:37:01] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:37:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:37:01] "GET /uploads/images/18.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:37:02] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:37:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:37:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:37:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполнение поиска
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:37:07] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:37:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2022 16:37:07] "[36mGET /uploads/images/18.jpg HTTP/1.1[0m" 304 -
